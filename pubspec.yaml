@@ -11,7 +11,10 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_cache_manager: ^3.3.0
-  numberpicker: ^2.1.1
+  numberpicker:
+    git:
+      url: https://github.com/Izudinalqasam/NumberPicker.git
+      ref: master
   path_provider: ^2.0.8
 
 dev_dependencies:

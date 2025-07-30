@@ -147,10 +147,12 @@ packages:
   numberpicker:
     dependency: transitive
     description:
-      name: numberpicker
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "2.1.1"
+      path: "."
+      ref: master
+      resolved-ref: "9d43d689dd02c5956de5e1feb718c34464c19207"
+      url: "https://github.com/Izudinalqasam/NumberPicker.git"
+    source: git
+    version: "2.1.2"
   path:
     dependency: transitive
     description:
